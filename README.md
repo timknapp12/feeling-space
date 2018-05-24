@@ -17,6 +17,7 @@ What actually happened:
 After setting up the server and database - I looked into using PassportJs for awhile and started implementing it for the first time but it wasn't working out as quickly as I hoped, so I switched to using Auth0 which I have done a few times.
 I set up Auth0 on Auth0 website and in my code to authenticate with Facebook. I got it running but then got an error after hitting the Auth0 api. the userData was undefined. After I worked on that for awhile unsuccesfully I decided to move on and build the UI and funcionality of the app -with the colors and feelings etc.
 If I had more time, I would try to fix the authentication because it's driving me nuts that it isn't working!
+So I swithced the Login button to just route to the Home Page instead of authenticate
 
 
 
