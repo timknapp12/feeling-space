@@ -1,3 +1,22 @@
+Priorities: 
+1) Make it work
+2) Make it look ok
+3) Make it work better (more effecient - connect 'feelings' to database)
+4) Make it look even better(responsive/animations etc)
+
+Planning and tasks: 
+1) Set up a repo and create react app 5-10 min
+2) research authentication method 15-20 min
+3) set up postgres database on heroku and set up schema and tables 30 min
+4) set up file structure front-end and server 15-20 min
+5) set up login authentication 20-30
+6) set up functionality of selecting feelings and colored dots 45-60 min
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
