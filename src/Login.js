@@ -7,9 +7,11 @@ export default class Login extends Component {
         return(
             <div>
                 {/* <a href={process.env.REACT_APP_LOGIN}> */}
-                <Link to='/home'><button type="" className="loginButton">
-                Sign in
-                </button></Link>
+                <Link to='/home'>
+                    <button type="" className="loginButton">
+                    Sign in
+                    </button>
+                </Link>
           {/* </a> */}
           </div>
         )
